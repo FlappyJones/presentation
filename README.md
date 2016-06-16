@@ -22,4 +22,4 @@ Once the app is loaded, the spacebar has been premapped to control the game:
     spacebar plays the game and controls the "flapping" of Mr. Jones
 
 
-Visit us [here at our website!](flappyjones.com:70)
+Visit us at flappyjones.com:70
