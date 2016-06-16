@@ -19,4 +19,4 @@ The app is already preinstalled on the [MEmu emulator](http://www.memuplay.com/)
 Your mouse can be used to control the emulator to select the app.
 Once the app is loaded, the spacebar has been premapped to control the game:
 
-  spacebar plays the game and controls the "flapping" of Mr. Jones
+    spacebar plays the game and controls the "flapping" of Mr. Jones
