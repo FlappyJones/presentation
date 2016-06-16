@@ -1,5 +1,7 @@
-FlappyJones! Visit us [here!](flappyjones.com:70)
+FlappyJones!
 ===========
+
+Visit us [here at our website!](flappyjones.com:70)
 
 Repo Legend
 ------------------
